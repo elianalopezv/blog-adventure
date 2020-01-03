@@ -3,4 +3,5 @@
 </h1>
 
 This is a repo for my personal blog made with Gatsby.js.
-Coming soon 🚀
+<br/>
+Coming soon! 🚀
