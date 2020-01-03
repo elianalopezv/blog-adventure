@@ -3,7 +3,7 @@ module.exports = {
     title: `My Blog Adventure \u{1F30E}`,
     author: `Eli`,
     description: `My personal blog made with Gatsby.js. You will find my coding and traveling adventures`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://eli-blog-adventure.netlify.com/`,
     social: {
       instagram: `elianalopezv`,
     },
