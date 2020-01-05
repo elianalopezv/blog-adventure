@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `My Blog Adventure \u{1F30E}`,
     author: `Eli`,
-    description: `My personal blog made with Gatsby.js. You will find my coding and traveling adventures`,
+    description: `Fun coding and travel stories`,
     siteUrl: `https://eli-blog-adventure.netlify.com/`,
     social: {
       instagram: `elianalopezv`,

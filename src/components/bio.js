@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Medellín building useful things.
-        {` `}
+        Written by <strong>{author}</strong>. Developer during the day and traveller when nothing is on fire &#x1F4BB; &#x1F525;.
+        &nbsp;&nbsp;
         <a href={`https://instagram.com/${social.instagram}`}>
           You should follow her on Instagram
         </a>
