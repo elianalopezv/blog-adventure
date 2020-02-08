@@ -54,9 +54,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. Developer during the day and traveller when nothing is on fire &#x1F4BB; &#x1F525;.
+        Written by <strong>{author}</strong>. Developer during the day and traveler when nothing is on fire &#x1F4BB; &#x1F525;.
         &nbsp;&nbsp;
-        <a href={`https://instagram.com/${social.instagram}`}>
+        <a target="_blank" rel="noopener noreferrer" href={`https://instagram.com/${social.instagram}`}>
           You should follow her on Instagram
         </a>
       </p>
