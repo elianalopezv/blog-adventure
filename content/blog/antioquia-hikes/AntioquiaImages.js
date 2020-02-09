@@ -13,7 +13,7 @@ const stories = [
       url: carolina,
       header: {
         heading: 'Carolina del Príncipe',
-        subheading: 'Lake, sun and forests.',
+        subheading: 'Hidden lake and forests.',
         profileImage: avatar,
       }
     },
