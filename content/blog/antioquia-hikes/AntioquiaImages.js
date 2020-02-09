@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Stories from 'react-insta-stories';
 
 import avatar from '../../assets/profile-pic.png';
@@ -52,8 +52,7 @@ const stories = [
 ];
 
 
-class AntioquiaImages extends Component {
-	render() {
+const AntioquiaImages = () => {
 		return (
 			<Stories
 				stories={stories}
@@ -62,7 +61,6 @@ class AntioquiaImages extends Component {
 				height={768}
 			/>
 		);
-	}
 }
 
 export default AntioquiaImages;

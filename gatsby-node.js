@@ -64,7 +64,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 }
 
 exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
-  if (stage === "build-html" || stage === "develop-html") {
+  if (stage === 'build-javascript' || stage === 'develop-html' || stage === 'build-html') {
     actions.setWebpackConfig({
       module: {
         rules: [
