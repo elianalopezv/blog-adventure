@@ -53,13 +53,18 @@ const stories = [
 
 
 const AntioquiaImages = () => {
+    const ssr = typeof document === 'undefined';
 		return (
-			<Stories
-				stories={stories}
-				defaultInterval={1000 * 5}
-				width={432}
-				height={768}
-			/>
+      <>
+      {!ssr &&
+        <Stories
+          stories={stories}
+          defaultInterval={1000 * 5}
+          width={432}
+          height={768}
+        />
+      }
+      </>
 		);
 }
 
