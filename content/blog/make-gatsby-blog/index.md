@@ -12,7 +12,7 @@ They have awesome [starters][gatsby-starters] or base projects to develop your w
 
 I set up the boring part of this blog using the [gatsby-starter-blog][gatsby-starter-blog] and now I can spend my time exploring fun and wonderful things to give it some life ✨
 
-Also, you could develop a great portfolio and your own ecommerce. I know you were thinking about doing it too! No more waiting ❌😴
+Also, you could develop a great portfolio and your own e-commerce. I know you were thinking about doing it too! No more waiting ❌😴
 
 💡 Pro tip: While you get a hosting for your website you can deploy it to [netlify][netlify]. It’s super easy if you have a repo on Bitbucket, GitLab, or GitHub. Just create an account and netlify will guide you. After that, you’ll have a real link to your website. It will be automatically deployed as you push your changes. 🤵🥂
 Elegant.
