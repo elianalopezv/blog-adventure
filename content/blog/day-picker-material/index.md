@@ -6,7 +6,7 @@ description: "Material-UI has date and time pickers. What about this one?"
 
 [Content in progress] 🔥
 
-Sandbox here 👇
+But check it out the sandbox here 👇
 
 [![Edit days-of-the-week-picker](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/days-of-the-week-picker-w0txd?fontsize=14&hidenavigation=1&theme=dark)
 
