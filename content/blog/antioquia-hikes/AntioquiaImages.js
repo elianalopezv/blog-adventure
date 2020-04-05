@@ -73,6 +73,23 @@ const images = [
 
 ];
 
+const CustomDot = ({ active }) => {
+  return (
+    <button style={{
+      height: 6,
+      width: 48,
+      backgroundColor: active ? 'whitesmoke' : 'rgba(255, 255, 255, 0.4)',
+      borderRadius: 2,
+      marginRight: 2,
+      marginLeft: 2,
+      marginBottom: '134%',
+      outline: 'none',
+      border: 'none',
+      }}
+    />
+  )
+}
+
 const AntioquiaImages = () => {
 		return (
       <Carousel
@@ -117,23 +134,10 @@ const AntioquiaImages = () => {
       showDots
       renderDotsOutside={false}
       renderButtonGroupOutside
-      customDot={
-        <button style={{
-          height: 6,
-          width: 48,
-          backgroundColor: 'rgba(255, 255, 255, 0.4)',
-          borderRadius: 2,
-          marginRight: 2,
-          marginLeft: 2,
-          marginBottom: '134%',
-          outline: 'none',
-          border: 'none',
-        }}>
-        </button>
-      }
+      customDot={<CustomDot />}
     >
       {images.map(image => (
-        <div style={{ position: 'relative' }}>
+        <div style={{ position: 'relative' }} key={image.alt}>
           <div style={{
             position: 'absolute', zIndex: 10, display: 'flex', alignItems: 'center', // padding: 24,
             width: '100%', backgroundColor: 'rgba(0,0,0,0.3)', padding: '28px 18px 18px 18px',
