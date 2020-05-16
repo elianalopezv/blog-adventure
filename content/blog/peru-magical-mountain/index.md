@@ -1,7 +1,7 @@
 ---
 title: What Salkantay Mountain taught me
 date: "2020-02-23T04:17:00.000Z"
-description: "I'd heard that the mountains are magical. Perú showed me this is real."
+description: "I'd heard that the mountains are magical. Peru showed me this is real."
 ---
 
 This is a story I keep in my heart 💟 I was on a trip to Peru and I decided to do one of the most popular hikes they have at Cusco: The Humantay lagoon, in the Salkantay mountain 🏔🇵🇪
@@ -10,7 +10,6 @@ There are beautiful pics of this place. 🔎 Do a quick google search to find th
 
 Pretty bad, right? 💀 Well, I'll tell you why.
 ![Humantay Lagoon](../../assets/humantay/humantay.jpeg)
-
 
 I was walking uphill and taking some photos with a GoPro Hero Session 📷 An old version that I love because it's super small. This part is important ℹ️ This camera is quite small 🤏
 
@@ -49,11 +48,3 @@ I can't describe all the sensations I had at that moment 🤩 I felt happy, stro
 
 You can call it what you want. A coincidence, a stroke of luck. It's ok 👌 You can believe in what makes you feel good 😌
 I feel good believing in the magic of every mountain I visit ✨ And this one, in particular, will always remember me the respect they deserve and the power that all of us, nature and humans, have inside 🌎⚡️
-
-
-
-
-
-
-
-

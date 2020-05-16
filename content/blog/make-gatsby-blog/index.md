@@ -1,10 +1,10 @@
 ---
 title: Making a blog with Gatsby
 date: "2020-01-10T02:43:00.000Z"
-description: "At first, it sounds challenging but then you'll find Gatsby is love."
+description: "At first, it sounds challenging but then you'll find Gatsby is your friend."
 ---
 
-At first, it sounds challenging but then you'll find Gatsby is love 💜
+At first, it sounds challenging but then you'll find Gatsby is your friend 💜
 
 It doesn’t matter if you are a complete noob or a pro senior dev. Gatsby is made for everyone.
 The [official tutorials][gatsby-tutorials] are great and explain everything you need 👌
@@ -21,4 +21,3 @@ Elegant.
 [gatsby-starters]: www.gatsbyjs.org/starters/
 [gatsby-starter-blog]: https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/
 [netlify]: https://www.netlify.com
-
