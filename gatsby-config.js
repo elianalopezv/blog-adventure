@@ -3,7 +3,7 @@ module.exports = {
     title: `My stories \u{1F5A5} \u{1F30E}`,
     author: `Eli`,
     description: `Fun coding and travel stories`,
-    siteUrl: `blog.elianalopezv.com`,
+    siteUrl: `https://blog.elianalopezv.com`,
     social: {
       instagram: `elianalopezv`,
     },
