@@ -55,7 +55,7 @@ const Bio = () => {
       />
       <p>
         Written by <strong>{author}</strong>. Developer during the day and
-        traveler when nothing is on fire &#x1F4BB; &#x1F525;
+        traveler when nothing is on fire. &#x1F525;
       </p>
     </div>
   );

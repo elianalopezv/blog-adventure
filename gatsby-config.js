@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `My Blog Adventure \u{1F30E}`,
+    title: `My stories \u{1F5A5} \u{1F30E}`,
     author: `Eli`,
     description: `Fun coding and travel stories`,
-    siteUrl: `https://eli-blog-adventure.netlify.com/`,
+    siteUrl: `blog.elianalopezv.com`,
     social: {
       instagram: `elianalopezv`,
     },
@@ -78,4 +78,4 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-}
+};
