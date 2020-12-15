@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My stories \u{1F5A5} \u{1F30E}`,
-    author: `Eli`,
-    description: `Fun coding and travel stories.`,
+    title: `\u{1F4BB} Eliana's Blog `, 
+    author: `@elianalopezv`,
+    description: `Personal stories about programming, hiking or just random situations that I find helpful and fun \u{1F920}`,
     siteUrl: `https://blog.elianalopezv.com`,
     social: {
       instagram: `elianalopezv`,

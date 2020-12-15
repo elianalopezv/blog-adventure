@@ -54,8 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. Developer during the day and
-        traveler when nothing is on fire. &#x1F525;
+      {"Personal stories about programming, hiking or just random situations that I find helpful and fun. \u{1F920}"}
       </p>
     </div>
   );

@@ -1,6 +1,6 @@
 ---
 title: I got a job offer in Canada. What comes next?
-date: "2020-12-05T18:53:00.000Z"
+date: "2020-12-15T11:56:00.000Z"
 description: "I'm in the midst of a relocation process since joining Commit as an Engineering Partner while living outside Canada. This is the first in a two-part series on my experiences moving to Canada from Colombia.
 "
 ---
